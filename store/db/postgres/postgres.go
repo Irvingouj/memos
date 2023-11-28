@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"log"
 
+	_ "github.com/lib/pq"
 	"github.com/pkg/errors"
-
 	"github.com/usememos/memos/server/profile"
 	"github.com/usememos/memos/store"
 )

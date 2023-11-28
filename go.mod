@@ -37,7 +37,9 @@ require (
 
 require (
 	github.com/KyleBanks/depth v1.2.1 // indirect
-	github.com/antlr/antlr4/runtime/Go/antlr/v4 v4.0.0-20230305170008-8188dc5388df // indirect
+	github.com/aarondl/json v0.0.0-20221020222930-8b0db17ef1bf // indirect
+	github.com/aarondl/opt v0.0.0-20230114172057-b91f370c41f0 // indirect
+	github.com/antlr/antlr4/runtime/Go/antlr/v4 v4.0.0-20230321174746-8dcc6526cfb1 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
 	github.com/desertbit/timer v0.0.0-20180107155436-c41aec40b27f // indirect
@@ -54,11 +56,14 @@ require (
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/lib/pq v1.10.9 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
+	github.com/qdm12/reprint v0.0.0-20200326205758-722754a53494 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/rs/cors v1.10.1 // indirect
 	github.com/sagikazarmark/locafero v0.3.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
 	github.com/sourcegraph/conc v0.3.0 // indirect
+	github.com/stephenafamo/bob v0.22.0 // indirect
+	github.com/stephenafamo/scan v0.4.2 // indirect
 	github.com/stoewer/go-strcase v1.3.0 // indirect
 	github.com/swaggo/files/v2 v2.0.0 // indirect
 	golang.org/x/image v0.13.0 // indirect
